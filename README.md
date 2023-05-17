@@ -17,7 +17,7 @@ Made used to plotly dash to create interactive dashboard to observe patterns in 
 
 
 Selected decision tree as our model of choice, after comparing with other models
-![image](https://github.com/abhipreets2/SpaceX-Launch-Prediction/assets/58743505/3a520d1d-bbf2-4d04-b988-da48794c599a)
+![image](https://github.com/abhipreets2/SpaceX-Launch-Prediction/assets/58743505/e456f720-2b9b-4e86-94de-f239b87b6b50)
 
 
 
