@@ -7,14 +7,17 @@ SpaceX provides space launches at a marginally lower rate than its other competi
 ## Data collection
 Data was collected by web scraping and using API, these datasets were later merged
 
-![image](https://github.com/abhipreets2/IBM-Data-Science-Capstone/assets/58743505/7f016aa8-fb14-46c7-9bd1-252d88959df4)
+![image](https://github.com/abhipreets2/SpaceX-Launch-Prediction/assets/58743505/e6337039-6d8b-44c9-ba39-b5b3e1144a54)
+
 
 ## EDA and model selection
 
 Made used to plotly dash to create interactive dashboard to observe patterns in data
-![image](https://github.com/abhipreets2/IBM-Data-Science-Capstone/assets/58743505/8a132450-2b40-43a4-b8df-2b3f298e0e49)
+![image](https://github.com/abhipreets2/SpaceX-Launch-Prediction/assets/58743505/b5eb64a3-1851-4181-970f-bf0e95e3ba51)
+
 
 Selected decision tree as our model of choice, after comparing with other models
-![image](https://github.com/abhipreets2/IBM-Data-Science-Capstone/assets/58743505/251729fb-7252-4872-a5a7-38d1d8e8b156)
+![image](https://github.com/abhipreets2/SpaceX-Launch-Prediction/assets/58743505/3a520d1d-bbf2-4d04-b988-da48794c599a)
+
 
 
