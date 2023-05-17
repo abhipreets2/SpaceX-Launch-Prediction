@@ -1,4 +1,4 @@
-# IBM-Data-Science-Capstone
+# SpaceX-Launch-Prediction
 
 ## About Project
 
